@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Rudra 👋
 
-<!--
-**rudr77sr/rudr77sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught Python backend dev.
+Currently learning FastAPI & PostgreSQL.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+- Python | FastAPI (learning) | PostgreSQL (learning) | Git
+- Foundation: CS50 Harvard ✅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Currently
+- Building my first backend project from scratch
+- 82 commits this month 🟩
+- Open to internships & freelance
+
+## 📫 Find me
+- 📧 rudr77.sr@gmail.com
+- 🐦 [@rudr77_SR](https://twitter.com/rudr77_SR)
