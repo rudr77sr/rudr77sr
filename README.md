@@ -9,7 +9,6 @@ Currently learning FastAPI & PostgreSQL.
 
 ## 🔨 Currently
 - Building my first backend project from scratch
-- 82 commits this month 🟩
 - Open to internships & freelance
 
 ## 📫 Find me
