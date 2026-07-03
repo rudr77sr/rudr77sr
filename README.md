@@ -4,7 +4,7 @@ Self-taught Python backend dev.
 Currently learning FastAPI & PostgreSQL.
 
 ## 🛠️ Stack
-- Python | FastAPI (learning) | PostgreSQL (learning) | Git
+- Python | FastAPI | PostgreSQL | Git
 - Foundation: CS50 Harvard ✅
 
 ## 🔨 Currently
