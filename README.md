@@ -1,4 +1,4 @@
-# Hey, I'm Rudra 👋
+# Hey, I'm Rudransh
 
 Self-taught Python backend dev.
 Currently learning FastAPI & PostgreSQL.
