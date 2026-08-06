@@ -9,7 +9,7 @@ I'm currently learning backend development from the ground up: Python, OOP, Fast
 - Python
 - FastAPI
 - Git and GitHub
-- SQL and PostgreSQL (in progress)
+- SQL and PostgreSQL
 
 ## Currently learning
 
